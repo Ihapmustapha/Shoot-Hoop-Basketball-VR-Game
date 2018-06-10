@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ad11e8d1fd84f5b4bba3048af908f768
+timeCreated: 1505417348
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Beauty and the Beast
+  fontNames:
+  - Beauty and the Beast
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
